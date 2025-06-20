@@ -1,0 +1,108 @@
+body{
+    background-color: black;
+    color: white;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color:white;
+    background-color: black;
+}
+.navbar-left{
+    padding-left: 20px;
+
+
+}
+.logo{
+    height: 100px;
+    padding-right: 40px;
+}
+.navbar-right{
+    padding-right:20px;
+    display: flex;
+    align-items: center;
+}
+.anch{
+    padding: 10px;
+    font-family: Whereas recognition of the inherent dignity;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.start{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 75vh;
+    
+}
+.part2{
+      padding-left: 70px;
+}
+.body1{
+    width: 50vw;
+    text-align: right;
+    padding-left: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.part2{
+    width: 50vw;
+    padding-left: 200px;
+}
+.services{
+    padding: 50px;
+    text-align: center;
+}
+.s-1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aqua;
+    letter-spacing: 2px;
+    font-size: 50px;
+    font-style: italic;
+    
+}
+.services-sub-cont{
+    display: flex;
+    flex-direction: row;
+   
+}
+.services-card{
+    border: 2px rgb(200, 200, 14) solid;
+    margin: 40px;
+    padding: 20px;
+    width: 400px;
+}
+.ak{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+}
+.ka{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-size: 20px;
+}
+.cont-info{
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+}
+.s-1{
+    text-align: center;
+}
+.social-icon-image{
+    height: 50px;
+    height: 40px;
+    padding: 20px;
+    text-align: center;
+    
+}
+.social-icon{
+    text-align: center;
+    
+}
+.google{
+    height: 50px;
+}
